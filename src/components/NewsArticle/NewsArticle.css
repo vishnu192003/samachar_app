@@ -1,0 +1,42 @@
+
+.img{
+    width: 300px;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    object-fit: cover;
+    display: block;
+  
+
+}
+.news-card{
+    border: 1px solid #000000;
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgb(116, 116, 116);
+   
+}
+.title{
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    height: 100px;
+}
+.article-info{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.url{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(251, 0, 0);
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-top: 5px;
+    text-decoration: none;
+    
+}

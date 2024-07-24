@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.heading{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    background-color: rgb(255, 0, 0);
+    padding: 10px;
+    border-radius: 5px;
+
+    
+}
+.search{
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    
+
+}
